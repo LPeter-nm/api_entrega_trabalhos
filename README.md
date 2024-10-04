@@ -6,10 +6,6 @@ de trabalhos pelos alunos e mantenham um registro das notas.
 
   [![My Skills](https://skillicons.dev/icons?i=typescript,adonis,docker)](https://skillicons.dev)
 
-# API Documentation
-
-Esta API permite gerenciar sessões de usuário, trabalhos, turmas, alunos, professores e aulas. Algumas rotas exigem autenticação.
-
 ## Rotas de Sessões
 
 - **POST /session** — `SessionsController.store`
