@@ -65,8 +65,8 @@ de trabalhos pelos alunos e mantenham um registro das notas.
    git clone <linkdorepositorio>
 2. Instale as dependências:
     ```bash
-    npm install
-3. Rode as migrações do banco de dados:
+    yarn install
+3. Rode as migrações do banco de dados: (OBS: Certifique-se que seu container está configurado conforme o exemplo no aquivo .envexample antes de rodar a migração)
      ```bash
     adonis migration:run
 5. Inicie o servidor:
